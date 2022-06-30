@@ -6,13 +6,15 @@
 
 [ripgrep](https://github.com/BurntSushi/ripgrep)
 
-[neovim]()
+[neovim](https://neovim.io/)
 
-[fish]()
+[fish](https://fishshell.com/)
 
 [fisher](https://github.com/jorgebucaran/fisher)
 
 [fish pure prompt](https://github.com/pure-fish/pure)
+
+[virtualfish](https://github.com/justinmayer/virtualfish)
 
 [nvm](https://github.com/nvm-sh/nvm)
 
