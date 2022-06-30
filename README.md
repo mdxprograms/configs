@@ -1,6 +1,8 @@
+# Configs
+
 ## Tools
 
-[Amethyst](https://ianyh.com/amethyst/)
+(Mac only) [Amethyst](https://ianyh.com/amethyst/)
 
 [fd](https://github.com/sharkdp/fd)
 
@@ -8,20 +10,25 @@
 
 [neovim](https://neovim.io/)
 
+## Fish
+
 [fish](https://fishshell.com/)
 
+For fish plugins
 [fisher](https://github.com/jorgebucaran/fisher)
 
+Fish prompt
 [fish pure prompt](https://github.com/pure-fish/pure)
+
+Fish + nvm :heart:
+[fish-nvm](https://github.com/FabioAntunes/fish-nvm)
 
 [virtualfish](https://github.com/justinmayer/virtualfish)
 
+## Node/Javascript
+
 [nvm](https://github.com/nvm-sh/nvm)
 
-## Fresh Mac Install
+## Python
 
-`brew install neovim fd fish && brew install --cask amethyst`
-
-## Fresh Arch install
-
-`sudo pacman -S neovim fd fish`
+[poetry](https://python-poetry.org/)
